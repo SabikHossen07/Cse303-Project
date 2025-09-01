@@ -64,7 +64,7 @@ This project demonstrates how real-world conditions like traffic and weather inf
 
 ## 📎 Repository Link
 
-🔗 [GitHub Repository](https://github.com/yourusername/taxi-fare-prediction)
+🔗 [GitHub Repository](https://github.com/SabikHossen07/taxi-fare-prediction)
 
 ---
 
@@ -72,7 +72,7 @@ This project demonstrates how real-world conditions like traffic and weather inf
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SabikHossen07/Cse303-Project/tree/main/taxi-fare-prediction.gi
+   git clone https://github.com/Cse303-Project/tree/main/taxi-fare-prediction.gi
 
 #Contact
 Feel free to reach out if you have any questions or suggestions!
